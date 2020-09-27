@@ -15,9 +15,9 @@ keywords: Spring,Spring Boot,Spring Cloud,开发者,编程,代码,开源,IT网�
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: 40515364/40515364.github.io
-github_url: https://github.com/40515364
-url: https://40515364.github.io
+repository: zhuyoulin123/zhuyoulin123.github.io
+github_url: https://github.com/zhuyoulin123
+url: https://zhuyoulin123.github.io
 # enforce_ssl: ityouknow.com
 
 ## Gem
@@ -56,7 +56,7 @@ paginate_path: 'page:num'
 menus:
 
   -
-    href: http://favorites.ren/stock.html
+    href: /stock.html
     label: 股票
     target: _blank  
 
@@ -98,11 +98,6 @@ navs:
     label: Home
 
   -
-    href: http://laughyouth.com/
-    label: Comics
-    target: _blank
-
-  -
     href: /spring-boot.html
     label: Spring Boot
     target: _self
@@ -117,7 +112,7 @@ navs:
         subLabel: Spring Cloud
 
   -
-    href: http://www.justdojava.com
+    href: /spring-boot.html
     label: Java
     target: _blank
     subnav:
@@ -127,7 +122,7 @@ navs:
         subLabel: Jvm 系列文章
         
       -
-        subHref: http://www.justdojava.com
+        subHref: /spring-boot.html
         subLabel: Java 极客技术
         target: _blank
 
@@ -142,7 +137,7 @@ navs:
         subLabel: Python 教程
         
       -
-        subHref: http://www.justdopython.com
+        subHref: /spring-boot.html
         subLabel: Python 技术
         target: _blank
 
